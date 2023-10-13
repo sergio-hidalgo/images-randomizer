@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "url": "images/img1.jpg",
+    "name": "The Alps",
+    "country": "Switzerland"
+  },
+  {
+    "id": 2,
+    "url": "images/img2.jpg",
+    "name": "Atacama desert",
+    "country": "Chile"
+  },
+  {
+    "id": 3,
+    "url": "images/img3.jpg",
+    "name": "Bruges street",
+    "country": "Belgium"
+  },
+  {
+    "id": 4,
+    "url": "images/img4.jpg",
+    "name": "Cape Town cliff",
+    "country": "South Africa"
+  },
+  {
+    "id": 5,
+    "url": "images/img5.jpg",
+    "name": "Dubrovnik bay",
+    "country": "Croatia"
+  },
+  {
+    "id": 6,
+    "url": "images/img6.jpg",
+    "name": "Marrakesh souk",
+    "country": "Morocco"
+  },
+  {
+    "id": 7,
+    "url": "images/img7.jpg",
+    "name": "Koh Tao beach",
+    "country": "Thailand"
+  },
+  {
+    "id": 8,
+    "url": "images/img8.jpg",
+    "name": "Kyoto palace",
+    "country": "Japan"
+  },
+  {
+    "id": 9,
+    "url": "images/img9.jpg",
+    "name": "Mount Cook",
+    "country": "New Zealand"
+  },
+  {
+    "id": 10,
+    "url": "images/img10.jpg",
+    "name": "Madrid Gran Via",
+    "country": "Spain"
+  },
+  {
+    "id": 11,
+    "url": "images/img11.jpg",
+    "name": "Montevideo square",
+    "country": "Uruguay"
+  },
+  {
+    "id": 12,
+    "url": "images/img12.jpg",
+    "name": "Hidden waterfall",
+    "country": "Laos"
+  }
+]
