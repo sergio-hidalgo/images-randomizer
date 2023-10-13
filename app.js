@@ -1,7 +1,9 @@
 const container = document.querySelector('.content');
+
+/* 
 const jsonObject = 'data/data.json';
 
-/* function getData() {
+function getData() {
   const listImg = [];
 
   fetch(jsonObject)
