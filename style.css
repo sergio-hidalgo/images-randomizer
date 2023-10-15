@@ -19,6 +19,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
   max-width: 1400px;
+  max-height: 90vh;
   height: 100vh;
 }
 
@@ -27,8 +28,8 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 20px 20px;
-  padding: 0;
+  margin: 0px;
+  padding: 10px;
 }
 
 .content .imageWrapper img {
@@ -53,6 +54,12 @@ body {
   z-index: 10;
 }
 
-.content .imageWrapper h2:hover {
+.content .imageWrapper h3 {
+  position: absolute;
+  text-align: center;
+  margin-top: 110px;
+  font-family: 'Popins';
+  font-size: 1.6rem;
   color: rgba(255, 255, 255, 1);
+  z-index: 10;
 }
